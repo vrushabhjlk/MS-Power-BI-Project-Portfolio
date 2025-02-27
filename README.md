@@ -6,6 +6,5 @@ Employee Attrition Analysis – Identify patterns in employee turnover
 
 ## 📊 Tools Used:
 Power BI for data visualization
-SQL (optional) for data processing
 Excel/CSV for raw data sources
 🔹 This dashboard helps HR professionals make data-driven decisions and improve workforce management. 🚀
